@@ -25,3 +25,11 @@ This project covers NumPy concepts from basics to intermediate level.
 
 pip install numpy
 python numpy_project.py
+
+
+
+## Day 2 - Pandas Basics
+- DataFrames
+- Filtering data
+- Statistics
+- Missing data handling
